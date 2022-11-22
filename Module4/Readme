@@ -1,0 +1,5 @@
+In this assignment you are to turn the loan calculator playground you did in a previous module into an app. The user interface of your app should have text fields to enter
+
+The loan amount (a float)
+The number of payment periods (an integer)
+The interest rate PER PAYMENT PERIOD (a float) 
